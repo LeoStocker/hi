@@ -1,0 +1,5 @@
+x = input('請問您的身高?')
+print(x)
+y = input('請問您的體重?')
+print(y)
+print('謝謝您的作答')
